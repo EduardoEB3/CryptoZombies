@@ -15,12 +15,12 @@
 <br />
 
 ## 👨🏼‍💻 Author
-  - Eduardo Expósito Barrera - alu0101230382@ull.edu.es
+  - Eduardo Expósito Barrera - [alu0101230382@ull.edu.es](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
 <br />
 
 ## 🗣 Description
-  - This repository contains the source codes of the [Cryptozombies](https://cryptozombies.io/en/) lessons.
+  - This repository contains the source codes of the [Cryptozombies](https://cryptozombies.io/) lessons.
 
 <br />
 
