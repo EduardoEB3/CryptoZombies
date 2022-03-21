@@ -2,6 +2,7 @@
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://ethereum.org/es/)
 [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://solidity-es.readthedocs.io/es/latest/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
+[![GitHub Pages](https://img.shields.io/badge/Web-GitHub%20Pages-informational)](https://eduardoeb3.github.io/CryptoZombies/)
 
 ![CryptoZombies](./img/cryptozombies.jpeg)
 
@@ -11,17 +12,17 @@
 - [🔎 Lessons](#-lessons)
 - [📝 Directory structure](#-directory-structure)
 
-</br>
+<br />
 
 ## 👨🏼‍💻 Author
   - Eduardo Expósito Barrera - alu0101230382@ull.edu.es
 
-</br>
+<br />
 
 ## 🗣 Description
   - This repository contains the source codes of the [Cryptozombies](https://cryptozombies.io/en/) lessons.
 
-</br>
+<br />
 
 ## 🔎 Lessons
 - In this section you will find the final result of each lesson.
@@ -32,7 +33,7 @@
   - **Lesson-5:** [Link](https://share.cryptozombies.io/es/lesson/5/share/H4XF13LD_MORRIS_%F0%9F%92%AF%F0%9F%92%AF%F0%9F%98%8E%F0%9F%92%AF%F0%9F%92%AF?id=Y3p8MTk2NTYx)
   - **Lesson-6:** [Link](https://share.cryptozombies.io/es/lesson/6/share/The_Phantom_of_Web3?id=Y3p8MTk2NTYx)
 
-</br>
+<br />
 
 ## 📝 Directory structure
 - The directory is organized as follows:
